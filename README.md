@@ -15,7 +15,7 @@ This project showcases my frontend skills, services, portfolio work, and include
 ## 📌 Live Preview
 
 👉 *(Add your live link here once deployed)*
-Example: `https://frontendbasic.vercel.app`
+Example: `https://frontendbasic-seven.vercel.app/`
 
 ---
 
